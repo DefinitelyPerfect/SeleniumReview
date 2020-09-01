@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24c671de-2be5-4bc2-866e-b2a89d340096" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1grrJNnIXWkWwfytrTUV74V9E3K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cucumber_Bayram" />
+  </component>
+  <component name="RunManager" selected="JUnit.Day02_Xpath.test1">
+    <configuration name="Day01_DriverKomutlari.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumReview" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Day01_DriverKomutlari" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day01_OrnekAmazon.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumReview" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Day01_OrnekAmazon" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day01_OrnekAmazon.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumReview" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Day01_OrnekAmazon" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day02_Xpath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumReview" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Day02_Xpath" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day02_Xpath.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumReview" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Day02_Xpath" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Day02_Xpath.test1" />
+        <item itemvalue="JUnit.Day02_Xpath" />
+        <item itemvalue="JUnit.Day01_OrnekAmazon.test1" />
+        <item itemvalue="JUnit.Day01_OrnekAmazon.test2" />
+        <item itemvalue="JUnit.Day01_DriverKomutlari.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24c671de-2be5-4bc2-866e-b2a89d340096" name="Default Changelist" comment="" />
+      <created>1598883479411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598883479411</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1598977811504">
+      <screen x="1600" y="1" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.1.1360.728@1600.1.1360.728" timestamp="1598977811504" />
+    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1598977811503">
+      <screen x="1600" y="1" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1600.860/1600.1.1360.728@1600.1.1360.728" timestamp="1598977811503" />
+    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1598977811503">
+      <screen x="1600" y="1" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1600.860/1600.1.1360.728@1600.1.1360.728" timestamp="1598977811503" />
+    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1598977811504">
+      <screen x="1600" y="1" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1600.860/1600.1.1360.728@1600.1.1360.728" timestamp="1598977811504" />
+  </component>
+</project>
