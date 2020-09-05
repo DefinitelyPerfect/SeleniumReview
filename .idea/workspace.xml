@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24c671de-2be5-4bc2-866e-b2a89d340096" name="Default Changelist" comment="" />
+    <list default="true" id="24c671de-2be5-4bc2-866e-b2a89d340096" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day02_Xpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day02_Xpath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Day02_Xpath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day02_Xpath.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1grrJNnIXWkWwfytrTUV74V9E3K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,53 +38,55 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cucumber_Bayram" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SeleniumReview_Hamza" />
   </component>
-  <component name="RunManager" selected="JUnit.Day02_Xpath.test1">
-    <configuration name="Day01_DriverKomutlari.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Day03_Ornek.amazonDropdownTest">
+    <configuration name="Day03_HardAssert.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumReview" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day01_DriverKomutlari" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="Day03_HardAssert" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day01_OrnekAmazon.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day03_HardAssert.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumReview" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day01_OrnekAmazon" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day01_OrnekAmazon.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumReview" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day01_OrnekAmazon" />
+      <option name="MAIN_CLASS_NAME" value="Day03_HardAssert" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day02_Xpath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day03_HardAssert.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumReview" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day02_Xpath" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="Day03_HardAssert" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day02_Xpath.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day03_Ornek.amazonDropdownTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumReview" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day02_Xpath" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="Day03_Ornek" />
+      <option name="METHOD_NAME" value="amazonDropdownTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day03_isDisplayed.isEnabled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumReview" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Day03_isDisplayed" />
+      <option name="METHOD_NAME" value="isEnabled" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Day02_Xpath.test1" />
-        <item itemvalue="JUnit.Day02_Xpath" />
-        <item itemvalue="JUnit.Day01_OrnekAmazon.test1" />
-        <item itemvalue="JUnit.Day01_OrnekAmazon.test2" />
-        <item itemvalue="JUnit.Day01_DriverKomutlari.test1" />
+        <item itemvalue="JUnit.Day03_Ornek.amazonDropdownTest" />
+        <item itemvalue="JUnit.Day03_HardAssert.test3" />
+        <item itemvalue="JUnit.Day03_HardAssert.test2" />
+        <item itemvalue="JUnit.Day03_HardAssert.test" />
+        <item itemvalue="JUnit.Day03_isDisplayed.isEnabled" />
       </list>
     </recent_temporary>
   </component>
@@ -105,21 +116,39 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1598977811504">
+    <state x="2060" y="85" key="FileChooserDialogImpl" timestamp="1598979595856">
       <screen x="1600" y="1" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.1.1360.728@1600.1.1360.728" timestamp="1598977811504" />
-    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1598977811503">
+    <state x="2060" y="85" key="FileChooserDialogImpl/0.0.1600.860/1600.1.1360.728@1600.1.1360.728" timestamp="1598979595856" />
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1599280475073">
       <screen x="1600" y="1" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1600.860/1600.1.1360.728@1600.1.1360.728" timestamp="1598977811503" />
-    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1598977811503">
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.1.1360.728@1600.1.1360.728" timestamp="1599280475073" />
+    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1599280475073">
       <screen x="1600" y="1" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1600.860/1600.1.1360.728@1600.1.1360.728" timestamp="1598977811503" />
-    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1598977811504">
+    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1600.860/1600.1.1360.728@1600.1.1360.728" timestamp="1599280475073" />
+    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1599280475073">
       <screen x="1600" y="1" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1600.860/1600.1.1360.728@1600.1.1360.728" timestamp="1598977811504" />
+    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1600.860/1600.1.1360.728@1600.1.1360.728" timestamp="1599280475073" />
+    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1599280475073">
+      <screen x="1600" y="1" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1600.860/1600.1.1360.728@1600.1.1360.728" timestamp="1599280475073" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Day03_Dropdown.java</url>
+          <line>25</line>
+          <properties class="Day03_Dropdown" method="dropwdown1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

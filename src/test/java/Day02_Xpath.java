@@ -13,15 +13,16 @@ public class Day02_Xpath {
     static WebDriver driver;
 
     @BeforeClass
-    public static void setUp(){
+    public static void setUp() {
         WebDriverManager.chromedriver().setup();
         // driver nesnesi oluşturduk.
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
+
     @Test
-    public void test1(){
+    public void test1() {
         driver.get("http://a.testaddressbook.com/");
         //<a id="sign-in" class="nav-item nav-link" data-test="sign-in"
         // href="/sign_in">Sign in</a>
@@ -38,7 +39,7 @@ public class Day02_Xpath {
         }
         List<WebElement> tumLinkler = driver.findElements(By.tagName("a"));
         //By.xpath("//a")
-        for(WebElement w : tumLinkler){
+        for (WebElement w : tumLinkler) {
             System.out.println(w.getText());
         }
         //<input type="email" class="form-control" placeholder="Email"
@@ -61,7 +62,10 @@ public class Day02_Xpath {
         WebElement tumYazilar = driver.findElement(By.tagName("body"));
         System.out.println(tumYazilar.getText());
     }
+
     @AfterClass
-    public static void tearDown(){
+    public static void tearDown() {
         driver.quit();
     }
+
+}
